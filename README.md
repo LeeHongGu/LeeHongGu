@@ -23,7 +23,11 @@
 ## 💻 Projects
 - **Inventory Manager App**: WPF-based inventory management system with real-time database integration.
 - **Customer Data Tracker**: A C# and SQL Server application for customer management.
-- **RDX Drive Monitor**: Utility for monitoring specific drives using C#.
+- **Database Backup and Restore Tool**: A C# application that automates the process of backing up and restoring SQL Server databases with customizable settings.
+- **Data synchronization**: a .Net application that synchronizes data between different servers via TCP-IP
+- **RDX Drive Monitor**: Utility to monitor specific drives using C#.
+- **Drive Switch**: A tool that manages the different behavior of RDX drive types depending on usage.
+- **File Utility**: A .Net utility for creating, modifying, deleting, copying, and so on.
 
 ## 📫 Contact
 - 📧 Email: [dlghdrn312@gmail.com](mailto:dlghdrn312@gmail.com)
