@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 DragonfruitJelly
+
+## 🛠️ Skills
+- **Languages**: C#, SQL, XAML
+- **Frameworks**: .Net, .NET Framework, WPF, WinUI
+- **Tools**: Visual Studio, SQL Server Management Studio
+
+## 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DragonfruitJelly&show_icons=true&theme=radical)
+
+## 📫 Contact
+- 📧 Email: [dlghdrn312@gmail.com]
+- 🌐 Blog: [My Blog](https://haribojelly.tistory.com/)
 
 <!--
 **LeeHongGu/LeeHongGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
