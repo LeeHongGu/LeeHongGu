@@ -31,7 +31,7 @@
 
 ## 📫 Contact
 - 📧 Email: [dlghdrn312@gmail.com](mailto:dlghdrn312@gmail.com)
-- 🌐 Blog: [My Blog](https://haribojelly.tistory.com/)
+- 🌐 Blog: [My Blog](https://velog.io/@dragonfruitjelly/posts)
 
 <!--
 **LeeHongGu/LeeHongGu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
